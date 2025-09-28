@@ -33,5 +33,3 @@ I believe **my work should speak louder than certificates** ✨
 ---
 
 ## 📫  
-- GitHub: [@Nawary30](https://github.com/Nawary30)
-- البريد: *اكتبي بريدك هنا لو حابة*
