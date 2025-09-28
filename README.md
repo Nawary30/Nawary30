@@ -32,6 +32,6 @@ I believe **my work should speak louder than certificates** ✨
 - Email: **alalawiah11@gmail.com**
 ---
 
-## 📫 تواصل معي
+## 📫  
 - GitHub: [@Nawary30](https://github.com/Nawary30)
 - البريد: *اكتبي بريدك هنا لو حابة*
